@@ -1,0 +1,24 @@
+{
+  "name": "insc-results",
+  "version": "1.0.0",
+  "description": "INSC - Índice Nacional de Satisfação do Consumidor",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server --progress --color --inline --hot"
+  },
+  "keywords": [],
+  "author": "Guilherme Grillo - RAPP Brasil",
+  "license": "ISC",
+  "devDependencies": {
+    "compass-mixins": "^0.12.10",
+    "css-loader": "^0.28.4",
+    "extract-text-webpack-plugin": "^2.1.2",
+    "jquery": "^3.2.1",
+    "node-sass": "^4.5.3",
+    "sass-loader": "^6.0.6",
+    "style-loader": "^0.18.2",
+    "webpack": "^2.2.0",
+    "webpack-dev-server": "^1.16.2"
+  },
+  "dependencies": {}
+}

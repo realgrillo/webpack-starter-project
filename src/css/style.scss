@@ -1,0 +1,19 @@
+@import 'compass';
+@import 'compass/reset';
+@import 'compass/css3';
+@import 'partials/main';
+
+//colors
+$red: #ad1f31;
+$grey: #4B4B4C;
+
+body
+{
+    color: $red;
+
+    h1
+    {
+        text-transform: uppercase;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+}
