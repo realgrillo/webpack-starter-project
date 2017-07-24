@@ -1,7 +1,7 @@
 {
-  "name": "insc-results",
+  "name": "starter-project",
   "version": "1.0.0",
-  "description": "INSC - Índice Nacional de Satisfação do Consumidor",
+  "description": "Webpack + jQuery + SASS/Compass",
   "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server --progress --color --inline --hot"
